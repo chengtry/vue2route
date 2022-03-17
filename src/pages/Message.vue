@@ -23,10 +23,10 @@
     data() {
       return {
         message:[
-          {id:'001',title:'messge1'},
-          {id:'002',title:'messge2'},
-          {id:'003',title:'messge3'},
-          {id:'004',title:'messge4'}
+          {id:'001',title:'这是messge1'},
+          {id:'002',title:'这是messge2'},
+          {id:'003',title:'这是messge3'},
+          {id:'004',title:'这是messge4'}
         ]
       }
     },

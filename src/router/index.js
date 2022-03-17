@@ -10,6 +10,8 @@ import Detail from '../pages/Detail'
 
 //创建并暴露一个路由器
 export default new VueRouter({
+    //mode: 'hash', //路由模式hash，默认hash兼容性较好，/#/
+    mode: 'history', //路由模式history，/
     routes: [
         {
             name: 'about',
