@@ -1,24 +1,10 @@
 # vue2route
 
-## Project setup
-```
-npm install
-```
+## vue2demo--路由相关内容
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+~~~
+通过观看相关视频学习Vue基础知识
+该demo主要内容是关于Vue路由相关知识。
+包括路由的创建、路由的跳转、路由的传参、路由的模式等。
+~~~
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
